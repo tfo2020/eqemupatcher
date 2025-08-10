@@ -1,0 +1,23 @@
+version: 202508104485376966461298ae51af1fe950ad32
+downloadprefix: https://github.com/tfo2020/eqemupatcher/tree/master/rof
+downloads:
+- name: BaseData.txt
+  md5: 878851da61b5b3d1ea4963fa9073f212
+  date: "20250810"
+  size: 61817
+- name: SkillCaps.txt
+  md5: 739dfdc6abfc0968254a199382100296
+  date: "20250810"
+  size: 817887
+- name: dbstr_us.txt
+  md5: 33a609e0d97c179214696239caaf9272
+  date: "20250810"
+  size: 6323620
+- name: eqhost.txt
+  md5: 793637247bbf45828aa276cbaa38cd6e
+  date: "20250810"
+  size: 50
+- name: spells_us.txt
+  md5: fa231f8ae17fd3cadcfc1d1ef9f8aa5e
+  date: "20250810"
+  size: 28113589
